@@ -1,0 +1,28 @@
+{
+  "name": "lab-express-rooms-with-reviews",
+  "version": "1.0.0",
+  "description": "![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PriscilaVeras/lab-express-rooms-with-reviews.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PriscilaVeras/lab-express-rooms-with-reviews/issues"
+  },
+  "homepage": "https://github.com/PriscilaVeras/lab-express-rooms-with-reviews#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.3"
+  }
+}
